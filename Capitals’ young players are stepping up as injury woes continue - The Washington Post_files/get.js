@@ -1,0 +1,1 @@
+Krux.ns.washingtonpost.kxjsonp_userdata({"status":"200","body":{"code":"no_segments","kuid":"kppidff_OeK5wcnC","kuid_long":"kppidff_OeK5wcnC","geo":{"region":"txg","latitude":"24.14","longitude":"120.67","domain":"hinet.net","country":"tw","dma":null,"zip":"403 55"},"technographics":{"browser":"Firefox 53","manufacturer":"Apple Inc.","device":"Computer","os":"Mac OS X"}}});
